@@ -21,9 +21,9 @@ Through this dashboard, users can:
 
 ## 📊 Dashboard Preview
 
-![Insurance Dashboard](images/insurance-dashboard.png)
 
-> 📌 *Upload the dashboard screenshot as `insurance-dashboard.png` inside the `images/` folder*
+![Insurance Dashboard](https://github.com/Pranay25o/Insurance_Data_Analysis/blob/main/Dashboard.png?raw=true)
+
 
 ---
 
@@ -65,9 +65,7 @@ This project follows a **standard Power BI enterprise architecture**:
    - Interactive visuals built on top of the semantic model
    - Filters and slicers for dynamic analysis
 
-### 🔗 Architecture Diagram
 
-![Insurance Dashboard](https://github.com/Pranay25o/Insurance_Data_Analysis/blob/main/Dashboard.png?raw=true)
 
 ---
 
@@ -178,3 +176,4 @@ These measures enable **interactive filtering and real-time insights**.
 Aspiring Data Analyst | Power BI | Tableau | SQL  
 
 🔗 LinkedIn: https://www.linkedin.com/in/pranay-ogale/
+
